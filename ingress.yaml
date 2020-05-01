@@ -5,8 +5,7 @@ metadata:
   namespace: dev
 spec:
   rules:
-  - host: *
-    http:
+  - http:
       paths:
       - backend:
           serviceName: hello-service
