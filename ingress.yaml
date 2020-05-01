@@ -5,7 +5,7 @@ metadata:
   namespace: dev
 spec:
   rules:
-  - host: 104.198.205.14
+  - host: https://kubernetesinterviewquestions.com/
     http:
       paths:
       - backend:
